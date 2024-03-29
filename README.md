@@ -15,10 +15,11 @@ npx shadcn-ui@latest add alert
 
 ## Features
 
-- [x] vite
-- [x] React 
-- [x] shadcn ui
-- [x] dark mode
-- [] i18n
-- [] react router
-- [] pwa
+[x] vite
+[x] React 
+[x] shadcn ui
+[x] dark mode
+[] i18n
+[] react router
+[] pwa
+[] ssr/ssg
